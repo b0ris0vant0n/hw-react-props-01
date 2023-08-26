@@ -4,7 +4,7 @@ import Stars from './Stars';
 const App: React.FC = () => {
   return (
     <div className="App">
-      <Stars count={3} />
+      <Stars count={4} />
     </div>
   );
 }
